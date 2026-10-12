@@ -58,20 +58,3 @@ Total prototype hardware cost: **$17.72**
 | **Total** | | **47 Gates** | **18 ICs** | — | **$17.72** |
 
 ---
-
-##  Repository Structure
-
-```text
-BERTEL-Digital-Logic-Game/
-├── README.md
-├── docs/
-│   └── BERTEL_Design_Specification.pdf
-├── schematics/
-│   ├── board1_C_multisim.png
-│   ├── board2_A_multisim.png
-│   ├── board3_B_multisim.png
-│   ├── board4_control_multisim.png
-│   └── full_bertel_system_multisim.png
-└── media/
-    ├── integrated_breadboard_setup.jpg
-    └── operation_demo.mp4
